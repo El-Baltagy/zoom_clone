@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694112656561",
+    "firebase_url": "https://z00m-e8b2e-default-rtdb.firebaseio.com",
+    "project_id": "z00m-e8b2e",
+    "storage_bucket": "z00m-e8b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694112656561:android:9a6fa4c2d8a81478995690",
+        "android_client_info": {
+          "package_name": "com.example.zoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694112656561-78a13mucsashkglju0ilgqiv4uclbug8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FNurrzkPahCfmtTbAWIY2SrDO70qgaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694112656561-78a13mucsashkglju0ilgqiv4uclbug8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
